@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://107.20.27.101:8081/repository/warrelease/</url>
+	      <url><http://54.209.181.240:8081/repository/pgrelease//url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://107.20.27.101:8081/repository/warsnapshot/</url>
+	      <url>http://54.209.181.240:8081/repository/pgsnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
